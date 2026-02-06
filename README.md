@@ -49,8 +49,9 @@ KisanMarket is a full-stack mobile application designed to provide a digital mar
 - MONGO_URI=your_mongodb_connection_string
 - JWT_SECRET=your_secret_key
 
-# Purpose of the Project
+## Purpose of the Project
 The goal of this project is to develop a scalable and secure agricultural marketplace application that leverages mobile technology and AI assistance to enhance accessibility, efficiency, and user experience in agricultural commerce.
 
-# Project Status
-This project is functionally complete for academic submission and serves as a strong foundation for future enhancements such as payment integration, admin dashboards, and production deployment.
+## Project Status
+- This project is functional.
+- Future enhancements such as payment integration, admin dashboards, and production deployment.
